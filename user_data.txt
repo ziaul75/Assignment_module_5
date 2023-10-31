@@ -1,0 +1,10 @@
+{"userName":"john","userEmail":"john@gmail.com","userPassword":"1234","role":"manager"}
+{"userName":"johndoe","userEmail":"johndoe@gmail.com","userPassword":"1243","role":"manager"}
+{"userName":"zia","userEmail":"zia@gmail.com","userPassword":"1233","role":"admin"}
+{"userName":"ziaul","userEmail":"zia001@gmail.com","userPassword":"1234","role":"admin"}
+{"userName":"ziaul","userEmail":"zia001@gmail.com","userPassword":"1234","role":"admin"}
+{"userName":"ziaul","userEmail":"zia001@gmail.com","userPassword":"55555","role":"admin"}
+{"userName":"ziaul","userEmail":"zia001@gmail.com","userPassword":"55555","role":"admin"}
+{"userName":"ziaul","userEmail":"zia001@gmail.com","userPassword":"00000","role":"admin"}
+{"userName":"ziaul","userEmail":"zia001@gmail.com","userPassword":"00000","role":"admin"}
+{"userName":"ziaul","userEmail":"zia001@gmail.com","userPassword":"55511","role":"admin"}
